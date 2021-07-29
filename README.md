@@ -7,9 +7,9 @@
 </div>
 
 <div>
-  <p text-decoration="none">- 👀 Hoje Trabalhando com front-end.</p>
-  <p text-decoration="none">- 🌱 Estudando PHP e React para front end.</p>
-  <p text-decoration="none">- 📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
+  <p text-decoration="none" color="#ffffff">👀 Hoje Trabalhando com front-end.</p>
+  <p text-decoration="none" color="#ffffff">🌱 Estudando PHP e React para front end.</p>
+  <p text-decoration="none" color="#ffffff">📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
 </div>
 
 <div style="display: inline_block"><br>
