@@ -18,10 +18,10 @@
   <img align="center" alt="Jonathas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonathas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonathas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jonathas-php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">  
-  <img align="center" alt="Jonathas-VSCode" height="30" width="30" src="assets/VsCode.svg.png">
-  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">  
-  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+  <img align="center" alt="Jonathas-php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
+  <img align="center" alt="Jonathas-VSCode" height="30" width="30" src="assets/VsCode.svg.png">    
+  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">    
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">    
   <img align="right" src="https://www.criarbanner.com.br/criargifs/a/2e6ef1c40abf6c5fd699786e8f42283b.gif" width="125" height="125" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank">
 </div>
 
