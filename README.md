@@ -17,10 +17,10 @@
   <img align="center" alt="Jonathas-VSCode" height="30" width="30" src="assets/VsCode.svg.png">
   <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">  
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+  <img align="right" src="https://www.criarbanner.com.br/criargifs/a/2e6ef1c40abf6c5fd699786e8f42283b.gif" width="125" height="125" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank">
 </div>
 
 ##
- <a title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/2e6ef1c40abf6c5fd699786e8f42283b.gif" width="125" height="125" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank"></a>
  
 <div> 
 
