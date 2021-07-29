@@ -4,12 +4,13 @@
 <a href="https://jonathasportifolio2.vercel.app/">
   <img height="160em" width="400em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Jonathas-front-end&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-front-end&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div>
-  <p text-decoration="none" style=' color="#ffffff"'>👀 Hoje Trabalhando com front-end.</p>
-  <p text-decoration="none" color="#ffffff">🌱 Estudando PHP e React para front end.</p>
-  <p text-decoration="none" color="#ffffff">📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
+  <p>👀 Hoje Trabalhando com front-end.</p>
+  <p>🌱 Estudando PHP e React para front end.</p>
+  <p>📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
 </div>
 
 <div style="display: inline_block"><br>
