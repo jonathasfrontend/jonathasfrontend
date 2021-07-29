@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://jonathasportifolio2.vercel.app/">
-  <img height="160em" width="400em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Jonathas-front-end&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-front-end&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" width="400em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Jonathas-front-end&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-front-end&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
