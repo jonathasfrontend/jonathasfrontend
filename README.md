@@ -6,9 +6,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-front-end&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-- 👀 Hoje Trabalhando com front-end!
-- 🌱 Estudando PHP e React para front end!
-- 📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com!
+<p>- 👀 Hoje Trabalhando com front-end.</p>
+<p>- 🌱 Estudando PHP e React para front end.</p>
+<p>- 📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
