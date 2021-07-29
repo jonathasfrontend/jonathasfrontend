@@ -14,6 +14,7 @@
   <img align="center" alt="Jonathas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonathas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jonathas-php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
+  <img align="center" alt="Jonathas-VSCode" height="30" width="40" src="assets/VsCode.svg.png">
 </div>
 
 ##
