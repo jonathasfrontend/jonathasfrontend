@@ -5,7 +5,7 @@
 - 📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com...
 
 <a href="https://jonathasportifolio2.vercel.app/">
-  <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-front-end&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="300em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-front-end&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-front-end&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
