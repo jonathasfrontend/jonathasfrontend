@@ -4,6 +4,7 @@
 <a href="https://jonathasportifolio2.vercel.app/">
   <img height="165em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=jonathasfrontend&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasfrontend&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=jonathasfrontend&layout=wide&show_reply=off&show_retweet=off" />
   </a>
 </div>
 
