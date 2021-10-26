@@ -1,5 +1,3 @@
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jonathasfrontend/91ed4cf54f258925445e0dadeda916ff/raw/bceeca85818c56316ea4c8416fd86518934cc072/gitcard.svg"/>
 <h1> Olá eu sou Jonathas <img src="assets/Hi.gif" width="25px"></h1>
 
 <div>
