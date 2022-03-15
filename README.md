@@ -23,8 +23,7 @@
   <img align="center" alt="Jonathas-php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
   <img align="center" alt="Jonathas-VSCode" height="30" width="30" src="assets/VsCode.svg.png">    
   <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">    
-  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">    
-  <img align="right" src="https://www.criarbanner.com.br/criargifs/a/b81e220f34d80c1b9df4cf359ddd2359.gif" width="125" height="125" border="0" /></a><br />
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">   
 </div>
 
 ##
