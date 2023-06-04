@@ -11,7 +11,7 @@
 <br>
 <div>
   <p>👀 Hoje Trabalhando com front-end.</p>
-  <p>🌱 Estudando PHP e React para front end.</p>
+  <p>🌱 Estudando React para front end.</p>
   <p>📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
 </div>
 
