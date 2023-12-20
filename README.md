@@ -10,8 +10,8 @@
 
 <br>
 <div>
-  <p>👀 Hoje Trabalhando com front-end.</p>
-  <p>🌱 Estudando React para front end.</p>
+  <p>👀 Hoje Trabalhando como fullstack.</p>
+  <p>🌱 Estudando e trabalhando com Reactjs para front end e Nodejs e mongodb para back-end.</p>
   <p>📫 Para contato jonathass5678@gmail.com ou jonathas.oleveira@gmail.com.</p>
 </div>
 
