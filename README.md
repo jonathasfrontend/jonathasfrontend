@@ -35,7 +35,7 @@ Atualmente, sou estudante de Tecnologia da Informação e estou em constante evo
 
 ## Contato
 
-- **Email:** [jonathass5678@gmail.com](mailto:jonathass5678@gmail.com) | [jonathas.oleveira@gmail.com](mailto:jonathas.oleveira@gmail.com)
+- **Email:** [jonathass5678@gmail.com](mailto:jonathass5678@gmail.com)
 - **LinkedIn:** [jonathas-oliveira](https://www.linkedin.com/in/jonathas-oliveira) <!-- Inclua seu LinkedIn se possuir -->
 - **Instagram:** [jonathasoliveira90](https://www.instagram.com/jonathasoliveira90/)
 - **Facebook:** [jonathas.oliveira.3726613](https://www.facebook.com/jonathas.oliveira.3726613/)
