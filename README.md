@@ -20,7 +20,6 @@ Atualmente, sou estudante de Tecnologia da Informação e estou em constante evo
 - **Back-end:** Node.js
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas & DevOps:** Git, VS Code, Discord
-- **Metodologias:** Scrum, Kanban
 
 ---
 
