@@ -1,6 +1,6 @@
 # Jonathas Oliveira
 
-![Olá](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Seja bem-vindo ao meu perfil!
+<img height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> Seja bem-vindo ao meu perfil!
 
 ---
 
@@ -39,12 +39,6 @@ Atualmente, sou estudante de Tecnologia da Informação e estou em constante evo
 - **LinkedIn:** [jonathas-oliveira](https://www.linkedin.com/in/jonathas-oliveira) <!-- Inclua seu LinkedIn se possuir -->
 - **Instagram:** [jonathasoliveira90](https://www.instagram.com/jonathasoliveira90/)
 - **Facebook:** [jonathas.oliveira.3726613](https://www.facebook.com/jonathas.oliveira.3726613/)
-
----
-
-## Animação da Cobrinha
-
-![Snake animation](https://raw.githubusercontent.com/jonathasfrontend/jonathasfrontend/output/github-contribution-grid-snake.svg)
 
 ---
 
