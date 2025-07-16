@@ -1,12 +1,16 @@
 # Jonathas Oliveira
 
-<img src="assets/Hi.gif" width="25px"> Bem-vindo ao meu perfil!
+<img src="assets/Hi.gif" width="25px"> Seja bem-vindo ao meu perfil!
 
 ---
 
 ## Sobre Mim
 
-Sou desenvolvedor Web Fullstack com experiência em projetos utilizando JavaScript, TypeScript, React, Node.js e bancos de dados SQL, além de conhecimento em ferramentas modernas do ecossistema web. Atualmente sou estudante de Tecnologia da Informação, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+Sou um Desenvolvedor Web Fullstack apaixonado por tecnologia, com sólida experiência em projetos que utilizam **JavaScript**, **TypeScript**, **React**, **Node.js** e bancos de dados **SQL**. Tenho conhecimento em ferramentas modernas do ecossistema web e metodologias ágeis, buscando sempre entregar soluções eficientes e escaláveis.
+
+Atualmente, sou estudante de Tecnologia da Informação e estou em constante evolução, sempre atento às novidades do mercado e focado em aprimorar minhas habilidades técnicas e interpessoais. Valorizo o aprendizado contínuo, colaboração e a busca por excelência em cada projeto.
+
+---
 
 ## Habilidades Técnicas
 
@@ -15,7 +19,10 @@ Sou desenvolvedor Web Fullstack com experiência em projetos utilizando JavaScri
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Vite
 - **Back-end:** Node.js
 - **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, VS Code, Discord
+- **Ferramentas & DevOps:** Git, VS Code, Discord
+- **Metodologias:** Scrum, Kanban
+
+---
 
 ## Estatísticas GitHub
 
@@ -29,10 +36,15 @@ Sou desenvolvedor Web Fullstack com experiência em projetos utilizando JavaScri
 
 ## Contato
 
-- Email: [jonathass5678@gmail.com](mailto:jonathass5678@gmail.com) | [jonathas.oleveira@gmail.com](mailto:jonathas.oleveira@gmail.com)
-- Instagram: [jonathasoliveira90](https://www.instagram.com/jonathasoliveira90/)
-- Facebook: [jonathas.oliveira.3726613](https://www.facebook.com/jonathas.oliveira.3726613/)
+- **Email:** [jonathass5678@gmail.com](mailto:jonathass5678@gmail.com) | [jonathas.oleveira@gmail.com](mailto:jonathas.oleveira@gmail.com)
+- **LinkedIn:** [jonathas-oliveira](https://www.linkedin.com/in/jonathas-oliveira) <!-- Inclua seu LinkedIn se possuir -->
+- **Instagram:** [jonathasoliveira90](https://www.instagram.com/jonathasoliveira90/)
+- **Facebook:** [jonathas.oliveira.3726613](https://www.facebook.com/jonathas.oliveira.3726613/)
 
 ---
 
 ![Snake animation](https://github.com/jonathasfrontend/jonathasfrontend/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> 💡 **Busco oportunidades para colaborar em projetos inovadores e contribuir para o crescimento de equipes de alto desempenho. Fique à vontade para entrar em contato!**
