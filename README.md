@@ -1,6 +1,6 @@
 # Jonathas Oliveira
 
-<img src="assets/Hi.gif" width="25px"> Seja bem-vindo ao meu perfil!
+![Olá](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Seja bem-vindo ao meu perfil!
 
 ---
 
@@ -42,7 +42,9 @@ Atualmente, sou estudante de Tecnologia da Informação e estou em constante evo
 
 ---
 
-![Snake animation](https://github.com/jonathasfrontend/jonathasfrontend/blob/output/github-contribution-grid-snake.svg)
+## Animação da Cobrinha
+
+![Snake animation](https://raw.githubusercontent.com/jonathasfrontend/jonathasfrontend/output/github-contribution-grid-snake.svg)
 
 ---
 
